@@ -1,0 +1,5 @@
+langchain
+numpy
+-e .
+
+# pip install -r requirements.txt
